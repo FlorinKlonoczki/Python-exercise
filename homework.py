@@ -12,7 +12,7 @@ print(cantitate)
 print(prospetime)
 print()
 
-# Exercitiu 3 -utilizare functia type
+# Exercitiu 3 -function type
 print(type(produse))
 print(type(pret))
 print(type(cantitate))

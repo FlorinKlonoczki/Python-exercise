@@ -3,12 +3,12 @@ Implementing hello word!
 """
 # import pylint
 # control + alt + L - reformateaza sa fie corect codul
-MODEL = 'patrat'
-print(f"Hello World! Modelul este {MODEL}!")
+MODEL = 'square'
+print(f"Hello World! The model is {MODEL}!")
 
-VARSTA = 20
-print(f'{MODEL} si {VARSTA}')
+AGE = 20
+print(f'{MODEL} and {AGE}')
 
 print(type(MODEL))
-VARSTA = VARSTA + 20
-print(VARSTA)
+AGE = AGE + 20
+print(AGE)
